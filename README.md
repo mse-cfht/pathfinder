@@ -1,2 +1,3 @@
-# pathfinder_design
-Repository for MSE Pathfinder Design, Analysis, Science Requirement Vetting
+# MSE-Pathfinder
+
+Github repository for MSE Pathfinder Design, Analysis, Science Requirement Vetting
